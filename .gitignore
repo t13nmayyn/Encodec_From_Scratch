@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints and Model Weights
+*.pt
+*.ckpt
+
+# Datasets & Audio Input/Output Files
+Dataset/
+wav24/
+preds/
+*.mp3
+*.wav
+
+# OS specific files
+.DS_Store
+Thumbs.db
